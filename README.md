@@ -12,8 +12,8 @@ BERT based readmission text classifier finetuning process: https://www.kaggle.co
 
 Model predictions on Validation set to get outputs to train the meta learner:  
 
-    BERT:https://www.kaggle.com/code/sujangauchan/bert-admission-wise-prediction?scriptVersionId=267153909
-    XGBOOST:https://www.kaggle.com/code/sujangauchan/xgboost-prediction-outputs-to-train-meta-learner?scriptVersionId=267365548
+1. BERT:https://www.kaggle.com/code/sujangauchan/bert-admission-wise-prediction?scriptVersionId=267153909
+2. XGBOOST:https://www.kaggle.com/code/sujangauchan/xgboost-prediction-outputs-to-train-meta-learner?scriptVersionId=267365548
 
 META Learner model training: https://www.kaggle.com/code/sujangauchan/meta-learner-logistic-regression-training?scriptVersionId=268062115
 
