@@ -4,7 +4,7 @@ Main application: https://github.com/Sujangauchan/hospital-readmission-app
 
 Initial Preprocessing and Merging: https://github.com/Sujangauchan/MIMIC-IV-Preprocessing-and-merging-for-Readmission-Prediction/tree/main
 
-BERT based readmission text classifier finetuning process (Only the converged version- stopped by early stopping, loaded model checkpoint from 2 previous 12 hour runs): https://www.kaggle.com/code/surajgauchan/bert-finetuning-main/notebook 
+BERT based readmission text classifier finetuning: https://www.kaggle.com/code/surajgauchan/bert-finetuning-main/notebook (This is the converged version loaded from the model which has already been finetuned for 24 hours/ underwent 2 different 12 hour runs)
 
 Model Training for Tabular Data: https://www.kaggle.com/code/sujangauchan/train-and-test-model-structured/notebook?scriptVersionId=268103386
 
