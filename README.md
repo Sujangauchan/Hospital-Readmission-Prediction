@@ -2,8 +2,6 @@
 
 ## Introduction 
 
-Multi-Modal Stacking Ensemble for Hospital Readmission Prediction: Integrating Clinical Notes and Tabular Data
-Multi-Modal Stacking Ensemble for Hospital Readmission Prediction: Integrating Clinical Notes and Tabular Data
 Developed an end-to-end ensemble predictive modeling pipeline focused on 30-day hospital readmissions by combining structured EHR data with unstructured clinical notes from the MIMIC-IV dataset, using a tailored setup of XGBoost for tabular features and a fine-tuned Bio_Discharge_Summary_BERT model for discharge summaries. 
 
 The project involved building, testing, and refining these two models as independent components and then integrating them through a logistic regression meta-learner, allowing the system to merge probability outputs and produce a more balanced prediction. 
